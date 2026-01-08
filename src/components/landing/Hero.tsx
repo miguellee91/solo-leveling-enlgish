@@ -14,7 +14,8 @@ export default function Hero() {
                     <div className="flex flex-col justify-center space-y-4">
                         <div className="space-y-2">
                             <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none text-foreground">
-                                <span className="text-primary">초등</span>부터 <span className="text-primary">대입</span>까지, 내신과 수능의<br />
+                                <span className="text-primary">초등</span>부터 <span className="text-primary">대입</span>까지,<br />
+                                내신과 수능의<br />
                                 확실한 해답
                             </h1>
                             <p className="max-w-[600px] text-muted-foreground md:text-xl">
